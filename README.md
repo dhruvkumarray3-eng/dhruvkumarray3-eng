@@ -24,33 +24,37 @@
 <!-- ══════════════════ ABOUT ══════════════════ -->
 <h2 align="center">👋 About Me</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
 
 ```python
 class DhruvRishabh:
     name       = "Dhruv Rishabh"
     username   = "dhruvkumarray3-eng"
-    location   = "India 🇮🇳"
+    location   = "Delhi, India 🇮🇳"
     role       = "Developer · Builder · Lifelong Learner"
     interests  = ["Python", "Telegram Bots", "Automation", "APIs", "Backend"]
     mindset    = "Learn → Build → Improve"
     currently  = "Building useful things, one commit at a time ⚡"
 ```
 
-</div>
+</td>
+    <td width="45%" valign="top">
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      🧩 I enjoy building practical projects and experimenting with code.<br/><br/>
-      🤖 Interested in Telegram bots, automation, and useful integrations.<br/><br/>
-      🌱 Always learning new tools and improving my development skills.
-    </td>
-    <td width="50%" valign="top">
-      🤝 Open to learning with other developers and collaborating on projects.<br/><br/>
-      🎯 Focused on clean, reliable and user-friendly experiences.<br/><br/>
-      ☕ Powered by curiosity, coffee and late-night commits.
-    </td>
+**⚡ Quick Facts**
+
+🧩 I enjoy building practical projects and experimenting with code.
+
+🤖 Interested in Telegram bots, automation, and useful integrations.
+
+🌱 Always learning new tools and improving my development skills.
+
+🎯 Focused on clean, reliable and user-friendly experiences.
+
+☕ Powered by curiosity, coffee and late-night commits.
+
+</td>
   </tr>
 </table>
 
@@ -64,7 +68,7 @@ class DhruvRishabh:
 
 **Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" alt="Python JavaScript HTML CSS Bash"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark" alt="Python JavaScript TypeScript HTML CSS Bash"/>
 
 **Development Tools**
 
@@ -108,21 +112,51 @@ class DhruvRishabh:
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
+<!-- ══════════════════ FEATURED PROJECTS ══════════════════ -->
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/dhruvkumarray3-eng/NUMEROUS-TELEGRAM-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=NUMEROUS-TELEGRAM-&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="NUMEROUS TELEGRAM"/>
+</a>
+<a href="https://github.com/dhruvkumarray3-eng/DHRUV_X_RADHA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=DHRUV_X_RADHA&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="DHRUV X RADHA"/>
+</a>
+
+<a href="https://github.com/dhruvkumarray3-eng/Numerology-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=Numerology-&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="Numerology"/>
+</a>
+<a href="https://github.com/dhruvkumarray3-eng/Otp-seller-bott">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=Otp-seller-bott&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="OTP Seller Bot"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/dhruvkumarray3-eng?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-6d5dfc?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</div>
+
+<!-- ══════════════════ DIVIDER ══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
 <!-- ══════════════════ ANALYTICS ══════════════════ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvkumarray3-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&border_radius=12" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkumarray3-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvkumarray3-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&border_radius=12&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkumarray3-eng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&bg_color=0d1330&title_color=A78BFA&text_color=c7d2fe" alt="Top languages"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=dhruvkumarray3-eng&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=dhruvkumarray3-eng&theme=tokyonight&hide_border=true&border_radius=12&background=0d1330&ring=6d5dfc&fire=A78BFA&currStreakLabel=c7d2fe" alt="GitHub streak"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvkumarray3-eng&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvkumarray3-eng&theme=tokyo-night&hide_border=true&area=true&radius=12&bg_color=0d1330&color=A78BFA&line=6d5dfc&point=ffffff" alt="Contribution activity graph"/>
 
 </div>
 
@@ -165,6 +199,7 @@ class DhruvRishabh:
 <a href="https://github.com/dhruvkumarray3-eng">
   <img src="https://img.shields.io/badge/GitHub-dhruvkumarray3--eng-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<img src="https://img.shields.io/badge/OPEN%20TO-Collaboration%20%26%20Ideas-6d5dfc?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration"/>
 
 <br/><br/>
 
