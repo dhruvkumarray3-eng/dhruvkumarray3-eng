@@ -108,6 +108,36 @@ class DhruvRishabh:
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
+<!-- ══════════════════ FEATURED PROJECTS ══════════════════ -->
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/dhruvkumarray3-eng/NUMEROUS-TELEGRAM-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=NUMEROUS-TELEGRAM-&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="NUMEROUS TELEGRAM"/>
+</a>
+<a href="https://github.com/dhruvkumarray3-eng/DHRUV_X_RADHA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=DHRUV_X_RADHA&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="DHRUV X RADHA"/>
+</a>
+
+<a href="https://github.com/dhruvkumarray3-eng/Numerology-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=Numerology-&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="Numerology"/>
+</a>
+<a href="https://github.com/dhruvkumarray3-eng/Otp-seller-bott">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=Otp-seller-bott&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="OTP Seller Bot"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/dhruvkumarray3-eng?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-6d5dfc?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</div>
+
+<!-- ══════════════════ DIVIDER ══════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
 <!-- ══════════════════ ANALYTICS ══════════════════ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
