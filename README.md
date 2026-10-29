@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- ══════════════════ PREMIUM HEADER ══════════════════ -->
+<img src="./assets/hero.png" width="170" alt="Dhruv Rishabh"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060f,35:0f1533,70:2a1e6e,100:6d5dfc&height=250&section=header&text=DHRUV%20RISHABH&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Telegram%20Bots%20%E2%80%A2%20Python%20%26%20Automation&descSize=16&descColor=c7d2fe&animation=fadeIn" width="100%" alt="Dhruv Rishabh"/>
 
 <a href="https://github.com/dhruvkumarray3-eng">
@@ -13,7 +15,7 @@
   <a href="https://github.com/dhruvkumarray3-eng"><img src="https://komarev.com/ghpvc/?username=dhruvkumarray3-eng&label=PROFILE+VIEWS&color=6d5dfc&style=for-the-badge" alt="Profile views"/></a>
   <a href="https://github.com/dhruvkumarray3-eng?tab=followers"><img src="https://img.shields.io/github/followers/dhruvkumarray3-eng?label=FOLLOWERS&style=for-the-badge&color=273469&logo=github&logoColor=white" alt="Followers"/></a>
   <a href="https://github.com/dhruvkumarray3-eng?tab=repositories"><img src="https://img.shields.io/github/stars/dhruvkumarray3-eng?label=STARS&style=for-the-badge&color=1e1b4b&logo=github&logoColor=white" alt="Stars"/></a>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-6d5dfc?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborate"/>
+  <a href="https://t.me/Vendor_masterz"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-6d5dfc?style=for-the-badge&logo=telegram&logoColor=white" alt="Open to collaborate"/></a>
 </p>
 
 </div>
@@ -120,9 +122,6 @@ class DhruvRishabh:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=DHRUV_X_RADHA&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="DHRUV X RADHA"/>
 </a>
 
-<a href="https://github.com/dhruvkumarray3-eng/Numerology-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=Numerology-&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="Numerology"/>
-</a>
 <a href="https://github.com/dhruvkumarray3-eng/Otp-seller-bott">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkumarray3-eng&repo=Otp-seller-bott&theme=tokyonight&hide_border=true&bg_color=0d1330&title_color=A78BFA&icon_color=6d5dfc&text_color=c7d2fe&border_radius=12" alt="OTP Seller Bot"/>
 </a>
@@ -216,6 +215,9 @@ class DhruvRishabh:
 </a>
 <a href="https://github.com/dhruvkumarray3-eng?tab=followers">
   <img src="https://img.shields.io/badge/FOLLOW-ME-6d5dfc?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+</a>
+<a href="https://t.me/Vendor_masterz">
+  <img src="https://img.shields.io/badge/Telegram-@Vendor__masterz-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 <br/><br/>
